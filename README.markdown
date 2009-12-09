@@ -4,6 +4,8 @@ A small script to be used for [secret santa game](http://en.wikipedia.org/wiki/S
 
 # Use
 
+  it requires just ruby, rubygems and **pony** gem installed.
+
 ## Configure
 
   * DEBUG: set to false (when is true, emails won't be sent)
